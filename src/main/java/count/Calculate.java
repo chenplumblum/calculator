@@ -70,9 +70,7 @@ public class Calculate {
     public static void main(String[] args) {
         Calculate calculate = new Calculate();
         Long add = calculate.add(1L, 2L);
-        Long admijgn = calculate.add(1L, 3L);
-//        Long undo = calculate.undo();
-//        Long undo1 = calculate.undo();
+        Long add2 = calculate.add(1L, 3L);
 
         Long redo = calculate.redo();
         Long redo1 = calculate.redo();
