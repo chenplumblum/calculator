@@ -2,7 +2,7 @@ package command;
 
 import java.util.ArrayList;
 
-public class Invoker {
+public class User {
 
     /**
      * 计算类
